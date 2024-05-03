@@ -1,0 +1,27 @@
+Type name: lab3.V2DataArray
+key = Quant, date = 01.01.2023 0:00:00
+Net have 10 elements
+0: x = 0,0000000, y = (0,0000000, 0,0000000)
+1: x = 0,1000000, y = (0,0010000, 0,0010000)
+2: x = 0,1400000, y = (0,0027440, 0,0027440)
+3: x = 0,2234000, y = (0,0111493, 0,0111493)
+4: x = 0,3110000, y = (0,0300802, 0,0300802)
+5: x = 0,4999000, y = (0,1249250, 0,1249250)
+6: x = 0,5500000, y = (0,1663750, 0,1663750)
+7: x = 0,6000000, y = (0,2160000, 0,2160000)
+8: x = 0,8000000, y = (0,5120000, 0,5120000)
+9: x = 1,0000000, y = (1,0000000, 1,0000000)
+
+Node = 0,0000000, True val in node = 0,0000000, Spline val in node = 0,0000001
+Node = 0,1000000, True val in node = 0,0010000, Spline val in node = 0,0010002
+Node = 0,1400000, True val in node = 0,0027440, Spline val in node = 0,0027442
+Node = 0,2234000, True val in node = 0,0111493, Spline val in node = 0,0111496
+Node = 0,3110000, True val in node = 0,0300802, Spline val in node = 0,0300805
+Node = 0,4999000, True val in node = 0,1249250, Spline val in node = 0,1249253
+Node = 0,5500000, True val in node = 0,1663750, Spline val in node = 0,1663753
+Node = 0,6000000, True val in node = 0,2160000, Spline val in node = 0,2160004
+Node = 0,8000000, True val in node = 0,5120000, Spline val in node = 0,5120004
+Node = 1,0000000, True val in node = 1,0000000, Spline val in node = 1,0000005
+ResidualMin = 9,498534751142221E-07
+StopReason = 3
+ItersNum = 23

@@ -1,0 +1,14 @@
+C:\Users\rusla\Desktop\Текущая_учёба\c#\lab_4.3\lab3\Build\x64\Debug\ClassLibrary.exe
+C:\Users\rusla\Desktop\Текущая_учёба\c#\lab_4.3\lab3\Build\x64\Debug\ClassLibrary.deps.json
+C:\Users\rusla\Desktop\Текущая_учёба\c#\lab_4.3\lab3\Build\x64\Debug\ClassLibrary.runtimeconfig.json
+C:\Users\rusla\Desktop\Текущая_учёба\c#\lab_4.3\lab3\Build\x64\Debug\ClassLibrary.dll
+C:\Users\rusla\Desktop\Текущая_учёба\c#\lab_4.3\lab3\Build\x64\Debug\ClassLibrary.pdb
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.AssemblyInfo.cs
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.dll
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\refint\ClassLibrary.dll
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.pdb
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ClassLibrary.genruntimeconfig.cache
+C:\Users\rusla\Desktop\lab6\lab3\obj\Debug\ref\ClassLibrary.dll

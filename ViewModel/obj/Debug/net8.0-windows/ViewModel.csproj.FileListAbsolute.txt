@@ -1,0 +1,15 @@
+C:\Users\rusla\Desktop\lab6\ViewModel\bin\Debug\net8.0-windows\ViewModel.deps.json
+C:\Users\rusla\Desktop\lab6\ViewModel\bin\Debug\net8.0-windows\ViewModel.dll
+C:\Users\rusla\Desktop\lab6\ViewModel\bin\Debug\net8.0-windows\ViewModel.pdb
+C:\Users\rusla\Desktop\lab6\ViewModel\bin\Debug\net8.0-windows\ClassLibrary.dll
+C:\Users\rusla\Desktop\lab6\ViewModel\bin\Debug\net8.0-windows\ClassLibrary.pdb
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.csproj.CopyComplete
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.dll
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\refint\ViewModel.dll
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ViewModel.pdb
+C:\Users\rusla\Desktop\lab6\ViewModel\obj\Debug\net8.0-windows\ref\ViewModel.dll
